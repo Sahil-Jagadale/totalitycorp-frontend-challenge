@@ -1,67 +1,36 @@
-# E-Commerce Website
 
-A Ecommerce Website made with React.js Framework.
+# E-Commerce Website with React
+
+This is a sample e-commerce website built using React, Redux, Bootstrap, and integrated with the Fake Store API.
 
 
-## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+## Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
 
 ## Features
 
-- Easy to integrate with Backend
-- Fully Responsive
+- Browse a catalog of products.
+- Filter product according to category
+- View detailed product information.
+- Add products to the shopping cart.
+- Adjust product quantities in the cart.
+- Proceed to checkout.
+- Responsive design for mobile and desktop.
 
+## Demo
 
-## Screenshots
+You can see a live demo of the website [here](https://totalitycorp-frontend-challenge-k1v9si2vu-jagadasahil-gmailcom.vercel.app/).
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+## Technologies Used
 
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
-```
-
-Go to the project directory
-
-```bash
-  cd React_E-Commerce
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
-
-
-
-## Tech Stack
-
-* [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Fake Store API](https://fakestoreapi.com/)
-
-## Contributing
-
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
-
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
-
+- React
+- Redux
+- Bootstrap
+- Fake Store API
+- Vercel
 
